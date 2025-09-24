@@ -1,4 +1,17 @@
 # dotfiles
 dotfiles! 
 
-I'll add it as soon as possible.
+Requirements
+
+    NerdFonts
+    Terminess Nerd Font
+    i3
+    kitty (terminal)
+    dunst
+    feh
+    lxappearance
+    flameshot
+    picom
+    nnn (not that, the file manager)
+
+
