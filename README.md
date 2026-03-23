@@ -1,17 +1,17 @@
 # dotfiles
 dotfiles! 
-
+!!! WIP !!!
 Requirements
 
     NerdFonts
     Terminess Nerd Font
     i3
-    kitty (terminal)
+    Ghostty (terminal)
     dunst
     feh
     lxappearance
     flameshot
     picom
-    nnn (not that, the file manager)
+    ranger
 
 
