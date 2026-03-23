@@ -1,0 +1,9 @@
+theme = Cursor Dark
+
+font-family = Terminess Nerd Font
+font-style = "Bold"
+font-size = 23
+
+# mac-only
+# window-position-x = 450
+# window-position-y = 250
